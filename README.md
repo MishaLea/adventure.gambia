@@ -1,1 +1,1 @@
-#DiscoverGambia
+#adventure.gambia
